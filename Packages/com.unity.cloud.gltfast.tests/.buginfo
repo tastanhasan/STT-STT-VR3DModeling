@@ -1,0 +1,5 @@
+system: jira
+server: jira.unity3d.com
+project: UUM
+issuetype: Bug
+package: Unity glTFast

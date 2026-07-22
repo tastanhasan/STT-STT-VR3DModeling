@@ -1,0 +1,13 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Manual",
+        "copyright":"© 2026 Unity Technologies and the glTFast authors. Licensed under Apache 2.0. See license file at root."
+    },
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "EmptyScene"
+        }
+    ]
+}

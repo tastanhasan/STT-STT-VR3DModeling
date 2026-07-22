@@ -1,0 +1,45 @@
+# Unity oluşturulan klasörler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Bb]uild/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Asset meta verileri (Sadece asset ignore edilirse ignore edilmeli)
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio / Rider / IDE önbellekleri ve proje dosyaları
+.vs/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D oluşturulan meta dosyaları
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Hata raporları
+sysinfo.txt
+
+# Çıktı (Build) dosyaları
+*.apk
+*.aab
+*.unitypackage
+*.app
