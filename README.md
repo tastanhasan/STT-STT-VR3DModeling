@@ -2,7 +2,7 @@
 
 STT-VR3DModeling; Sanal Gerçeklik (VR) ortamında çalışan, yapay zeka destekli bir ses-metin (Speech-to-Text) dönüşüm motoru kullanarak 3D objelerin karmaşık arayüzlere ihtiyaç duyulmadan manipüle edilmesini sağlayan bir bilgisayar programıdır. Geleneksel WIMP arayüzlerinin VR ortamındaki kısıtlamalarını ortadan kaldırarak kullanıcılara doğal bir etkileşim sunar. Sistem, kullanıcının sesli komutlarını Regex algoritmalarıyla analiz ederek sahnedeki etkileşimli objelere yönlendirir.
 
-![Görsel 1: Ses komutu ayarları ekranı](Docs/gorsel-1.jpg)
+![Görsel 1: Ses komutu ayarları ekranı](Docs/gorsel-1.png)
 
 ## Tescil ve Lisans Bilgileri
 Bu yazılım, T.C. Kültür ve Turizm Bakanlığı Telif Hakları Genel Müdürlüğü tarafından **2026/19342** Kayıt-Tescil Numarası ile tescillenmiştir.
@@ -26,14 +26,14 @@ Geleneksel 3D modelleme ve render yazılımlarında materyal değiştirmek veya 
 ### Anlık Materyal Kararları (Material)
 Bir iç mekan tasarımında, zemindeki kaplamayı anında değiştirmek için sadece "Material" komutunu vermek yeterlidir. Arayüzde açılan dinamik menüden seçilen yeni doku saniyeler içinde zemine uygulanır. Sistem, atanan dokunun çözünürlüğüne göre otomatik UV/Tiling ölçeklemesi yaparak mimari gerçekçiliği korur ve doku bozulmalarını önler.
 
-![Görsel 2A: Malzeme değişimi için ses komutunun iletilmesi](Docs/gorsel-2a.jpg)
-![Görsel 2B: Malzeme paneli ile seçim yapılması](Docs/gorsel-2b.jpg)
+![Görsel 2A: Malzeme değişimi için ses komutunun iletilmesi](Docs/gorsel-2a.png)
+![Görsel 2B: Malzeme paneli ile seçim yapılması](Docs/gorsel-2b.png)
 
 ### Objelerin Hassas Konumlandırılması (Rotate)
 Mekandaki bir sandalyeyi veya mobilyayı kendi ekseninde çevirmek için objeye bakarak "Rotate" demek yeterlidir. Bu komutla hedefin etrafında aktif edilen referans iletkisi (Gizmo) sayesinde, sandalye XZ düzleminde 5'er derecelik hassas açılarla (snap) milimetrik olarak istenilen konuma yerleştirilebilir.
 
-![Görsel 3A: Döndürülecek objenin seçilmesi](Docs/gorsel-3a.jpg)
-![Görsel 3B: Sesli komut sonrası nesnenin istenilen açıda döndürülmesi](Docs/gorsel-3b.jpg)
+![Görsel 3A: Döndürülecek objenin seçilmesi](Docs/gorsel-3a.png)
+![Görsel 3B: Sesli komut sonrası nesnenin istenilen açıda döndürülmesi](Docs/gorsel-3b.png)
 
 ### Nesne Görünürlük Kontrolü (On/Off)
 "On" veya "Off" komutları ile iç mekandaki aydınlatma elemanlarının durumu eş zamanlı olarak yönetilebilir. Bu özellik, tasarımcının ve müşterinin Sanal Gerçeklik gözlüğünü başından hiç çıkarmadan, mekandaki farklı ışık senaryolarını ve atmosfer alternatiflerini kesintisiz bir şekilde deneyimlemesini sağlar.
