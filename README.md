@@ -50,5 +50,5 @@ Uygulama arka planında çalışan sistem döngüsü; kullanıcı etkileşimiyle
 ---
 
 ## Akademik Referans
-Sistemin kavramsal omurgası, metodolojisi ve VR ortamındaki insan-bilgisayar etkileşimi (HCI) analizleri şu makalede detaylandırılmıştır:
-> Taştan, H. (2025). *Development and Preliminary Study of a Speech-Based Interface for IVR-Based 3D Modeling*. 10. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi, İstanbul, Türkiye.
+Sistemin kavramsal omurgası, metodolojisi ve VR ortamındaki insan-bilgisayar etkileşimi (HCI) analizleri aşağıdaki bilimsel yayında detaylandırılmıştır:
+> Taştan, H. (2025). *Development and Preliminary Study of a Speech-Based Interface for IVR-Based 3D Modeling*. 10. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi, Türkiye.
